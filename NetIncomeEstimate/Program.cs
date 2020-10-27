@@ -19,13 +19,15 @@ namespace NetIncomeEstimate
             bool run = true;
             while (run)
             {
-                //string filing = input.AskForFilingStatus();
+                string filing = input.AskForFilingStatus();
 
-                //int income= input.AskForGrossIncome();
+                int income= input.AskForGrossIncome();
 
-                //GetNetIncome(filing, income);
-                GetNetIncome("h", 60000);
+                var netIncome =GetNetIncome(filing, income);
+                DisplayIncomeBreakOut(netIncome);
+
                 run = input.RepeatCalculatorInput();
+
             }
 
 
@@ -72,6 +74,18 @@ namespace NetIncomeEstimate
             double NetIncome = taxableIncome - taxesOwed;
             Console.WriteLine("You will receive {0} after taxes if you file your taxes as : {1}", NetIncome, filingStatusName);
             return NetIncome;
+        }
+        public static void DisplayIncomeBreakOut(double NetIncome)
+        {
+            var weekly = NetIncome / 52;
+            var monthly = NetIncome / 12;
+            var biweekly = NetIncome / 26;
+
+            Console.WriteLine("This is your Net Income by pay period");
+            Console.WriteLine("Monthly: $" + monthly);
+            Console.WriteLine("Bi-Weekly: $"+ biweekly);
+            Console.WriteLine("Weekly: $" + weekly);
+
         }
 
 

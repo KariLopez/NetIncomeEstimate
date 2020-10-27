@@ -8,7 +8,7 @@ namespace NetIncomeEstimate.Main
 {
     public class UserInput
     {
-        public UserValidation validation; 
+        public UserValidation validation = new UserValidation();
         public  string AskForFilingStatus()
         {
             bool validInput = false;

@@ -5,3 +5,14 @@ C:\Users\klopez\source\repos\NetIncomeEstimate\NetIncomeEstimate\bin\Debug\NetIn
 C:\Users\klopez\source\repos\NetIncomeEstimate\NetIncomeEstimate\bin\Debug\NetIncomeEstimate.pdb
 C:\Users\klopez\source\repos\NetIncomeEstimate\NetIncomeEstimate\obj\Debug\NetIncomeEstimate.exe
 C:\Users\klopez\source\repos\NetIncomeEstimate\NetIncomeEstimate\obj\Debug\NetIncomeEstimate.pdb
+C:\Users\klopez\source\repos\NetIncomeEstimate\NetIncomeEstimate\bin\Debug\xunit.abstractions.dll
+C:\Users\klopez\source\repos\NetIncomeEstimate\NetIncomeEstimate\bin\Debug\xunit.assert.dll
+C:\Users\klopez\source\repos\NetIncomeEstimate\NetIncomeEstimate\bin\Debug\xunit.core.dll
+C:\Users\klopez\source\repos\NetIncomeEstimate\NetIncomeEstimate\bin\Debug\xunit.execution.desktop.dll
+C:\Users\klopez\source\repos\NetIncomeEstimate\NetIncomeEstimate\bin\Debug\xunit.assert.xml
+C:\Users\klopez\source\repos\NetIncomeEstimate\NetIncomeEstimate\bin\Debug\xunit.core.xml
+C:\Users\klopez\source\repos\NetIncomeEstimate\NetIncomeEstimate\bin\Debug\xunit.execution.desktop.xml
+C:\Users\klopez\source\repos\NetIncomeEstimate\NetIncomeEstimate\obj\Debug\NetIncomeEstimate.csproj.CopyComplete
+C:\Users\klopez\source\repos\NetIncomeEstimate\NetIncomeEstimate\bin\Debug\xunit.runner.visualstudio.testadapter.dll
+C:\Users\klopez\source\repos\NetIncomeEstimate\NetIncomeEstimate\bin\Debug\xunit.runner.reporters.net452.dll
+C:\Users\klopez\source\repos\NetIncomeEstimate\NetIncomeEstimate\bin\Debug\xunit.runner.utility.net452.dll

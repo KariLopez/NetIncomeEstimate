@@ -11,14 +11,16 @@ namespace NetIncomeEstimate.Main
         public bool ValidateRepeatInput(string userInput)
         {
             bool validResponse;
-            if (userInput != "y" || userInput != "n")
+            if (userInput == "y" || userInput == "n")
+            {
+               
+                validResponse = true;
+            }
+       
+            else
             {
                 Console.WriteLine("Please enter a valid response (Y/N)");
                 validResponse = false;
-            }
-            else
-            {
-                validResponse = true;
             }
             return validResponse;
 
