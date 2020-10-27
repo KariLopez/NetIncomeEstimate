@@ -1,0 +1,7 @@
+C:\Users\klopez\source\repos\NetIncomeEstimate\NetIncomeEstimate\obj\Debug\NetIncomeEstimate.csprojAssemblyReference.cache
+C:\Users\klopez\source\repos\NetIncomeEstimate\NetIncomeEstimate\obj\Debug\NetIncomeEstimate.csproj.CoreCompileInputs.cache
+C:\Users\klopez\source\repos\NetIncomeEstimate\NetIncomeEstimate\bin\Debug\NetIncomeEstimate.exe.config
+C:\Users\klopez\source\repos\NetIncomeEstimate\NetIncomeEstimate\bin\Debug\NetIncomeEstimate.exe
+C:\Users\klopez\source\repos\NetIncomeEstimate\NetIncomeEstimate\bin\Debug\NetIncomeEstimate.pdb
+C:\Users\klopez\source\repos\NetIncomeEstimate\NetIncomeEstimate\obj\Debug\NetIncomeEstimate.exe
+C:\Users\klopez\source\repos\NetIncomeEstimate\NetIncomeEstimate\obj\Debug\NetIncomeEstimate.pdb
