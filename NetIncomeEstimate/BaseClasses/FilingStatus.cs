@@ -11,7 +11,7 @@ namespace NetIncomeEstimate.BaseClasses
         internal int StandardDeduction { get; set; }
         public  string Alias { get; set; }
 
-        public List<TaxRate> RateTable { get; set; }
+        public List<TaxRate> RateTable { get;  set; }
 
         
        

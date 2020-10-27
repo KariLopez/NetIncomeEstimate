@@ -53,6 +53,7 @@
     <Compile Include="Classes\FilingStatuses\Single.cs" />
     <Compile Include="Classes\TaxRateCalculator.cs" />
     <Compile Include="Main\UserInput.cs" />
+    <Compile Include="Main\UserValidation.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
@@ -60,7 +61,7 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="gitnore.txt" />
+    <Content Include="gitignore.txt" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

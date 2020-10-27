@@ -18,7 +18,8 @@ namespace NetIncomeEstimate.FilingStatuses
             StandardDeduction = deduction;
             Alias = name;
 
-           // RateTable = new List<TaxRate>();
+            RateTable = new List<TaxRate>();
+    
             RateTable.Add(new TaxRate(0, 9875, 1, .10));
             RateTable.Add(new TaxRate(9876, 40125, 987.5, .10));
             RateTable.Add(new TaxRate(40126, 85525, 4617.5, .22));
@@ -28,7 +29,7 @@ namespace NetIncomeEstimate.FilingStatuses
             //edge case
            // RateTable.Add(new TaxRate(518401, null, 156235, .37));
 
-            Console.WriteLine(RateTable);
+          
 
         }
      
